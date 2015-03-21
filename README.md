@@ -1,0 +1,1 @@
+# vcc-kinect-fusion
